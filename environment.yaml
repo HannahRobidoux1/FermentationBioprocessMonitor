@@ -1,0 +1,7 @@
+name: BioprocessMonitor
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas=3.0.6
+  - matplotlib=3.11.2
